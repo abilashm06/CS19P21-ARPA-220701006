@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "iGps1WI690S2FdTa9bz4jw",
+  "Reference": "qrWnDqbryEWyWeZ3djRdXQ/iGps1WI690S2FdTa9bz4jw",
+  "ParentRef": "qrWnDqbryEWyWeZ3djRdXQ/d3TIQmjwpE2e9HQ-hwdGlQ",
+  "Created": "2025-08-02T08:42:24.4740481Z",
+  "Updated": "2025-08-02T08:42:24.4740481Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
